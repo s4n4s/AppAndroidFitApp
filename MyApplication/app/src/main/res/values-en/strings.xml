@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Fitness"</string>
+    <string name="Muscle">"Muscle"</string>
+    <string name="Exercice">"Exercice"</string>
+    <string name="about">" About "</string>
+    <string name="myString">"About"</string>
+    <string name="Welcome">"Welcome on Appfitness"</string>
+    <string name="Titre">"Title"</string>
+    <string name="Description">"Description"</string>
+
+</resources>

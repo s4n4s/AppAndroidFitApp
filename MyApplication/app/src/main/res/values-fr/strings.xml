@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Fitness"</string>
+    <string name="Muscle">"Les muscles"</string>
+    <string name="Exercice">"Les exercices"</string>
+    <string name="Welcome">"Bienvenue sur Appfitness"</string>
+    <string name="myString">"A propos"</string>
+    <string name="Description">"Description"</string>
+</resources>

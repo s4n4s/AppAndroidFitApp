@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">"Fitness"</string>
+    <string name="about">" A propos "</string>
+    <string name="Muscle">"Muscle"</string>
+    <string name="Exercice">"Exercice"</string>
+    <string name="myString">"A propos"</string>
+    <string name="Welcome">"Bienvenue sur Appfitness"</string>
+    <string name="Titre">"Titre"</string>
+    <string name="Description">"Description"</string>
+
+</resources>
